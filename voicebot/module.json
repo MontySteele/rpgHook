@@ -1,0 +1,10 @@
+{
+  "name": "voicebot",
+  "title": "VoiceBot",
+  "description": "Blank Foundry VTT module stub.",
+  "version": "0.0.1",
+  "author": "VoiceBot",
+  "esmodules": ["main.js"],
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11"
+}
